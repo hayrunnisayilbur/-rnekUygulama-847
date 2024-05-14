@@ -1,0 +1,34 @@
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.exe.config
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.exe
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.pdb
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.AssemblyReference.cache
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.Form1.resources
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.Properties.Resources.resources
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.GenerateResource.cache
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.CoreCompileInputs.cache
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.exe
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.pdb
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\MySql.Data.dll
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Memory.dll
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Buffers.dll
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.CopyComplete
+C:\Users\H2O\source\repos\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.YeniFilmForm.resources
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.exe.config
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.exe
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\Örnek Uyglama.pdb
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Memory.dll
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\bin\Debug\System.Buffers.dll
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.Form1.resources
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.Properties.Resources.resources
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek_Uyglama.YeniFilmForm.resources
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.GenerateResource.cache
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.csproj.CopyComplete
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.exe
+C:\Users\User\Downloads\film-ekle-listele-sil-image-main\Örnek Uyglama\Örnek Uyglama\obj\Debug\Örnek Uyglama.pdb
